@@ -1,16 +1,4 @@
-# otp_validation_app2
+# OTP Validation App 2
+## Create small applications for 100
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app2](https://github.com/Mohamed-Essam-Mohamed/otp_validation_app2/assets/152906492/824a6ca8-2854-4599-8742-70a763969da9)
